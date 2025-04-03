@@ -34,7 +34,7 @@ android {
             isDebuggable = true
             isMinifyEnabled = false
             isShrinkResources = false
-            resValue("string", "app_name", "About Dev")
+            resValue("string", "app_name", "Trivial Dev")
         }
     }
     compileOptions {
