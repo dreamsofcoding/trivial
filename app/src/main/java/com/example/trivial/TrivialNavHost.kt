@@ -5,6 +5,7 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.NavHostController
+import com.example.trivial.ui.welcome.WelcomeScreen
 
 
 @Composable
@@ -18,7 +19,9 @@ fun TrivialNavHost(
         modifier = modifier
     ) {
         composable(route = Welcome.route) {
-
+            WelcomeScreen {
+                navController.navigateSingleTopTo(Questions.route)
+            }
         }
 
         composable(route = Questions.route) {
