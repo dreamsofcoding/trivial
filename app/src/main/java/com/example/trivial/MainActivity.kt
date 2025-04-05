@@ -3,7 +3,9 @@ package com.example.trivial
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.systemBars
 import androidx.compose.material3.Scaffold
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -18,9 +20,7 @@ import dagger.hilt.android.AndroidEntryPoint
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
         WindowCompat.setDecorFitsSystemWindows(window, false)
-
         setContent {
             TrivialMain()
         }
@@ -32,10 +32,10 @@ class MainActivity : ComponentActivity() {
 fun TrivialMain() {
     TrivialTheme {
         val navController = rememberNavController()
-        val currentBackStack by navController.currentBackStackEntryAsState()
-        val currentDestination = currentBackStack?.destination
 
-        Scaffold { innerPadding ->
+        Scaffold (
+            contentWindowInsets = WindowInsets.systemBars
+        ) { innerPadding ->
             TrivialNavHost(
                 navController = navController,
                 modifier = Modifier.padding(innerPadding)

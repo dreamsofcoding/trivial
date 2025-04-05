@@ -32,9 +32,6 @@ fun TrivialNavHost(
         composable(route = Questions.route) {
             QuestionsScreen(
                 viewModel = viewModel,
-                onNextQuestionSelected = {
-
-                },
                 onNavigateToScores = {
                     navController.navigateSingleTopTo(Scores.route)
                 }

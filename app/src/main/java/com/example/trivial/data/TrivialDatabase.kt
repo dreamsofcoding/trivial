@@ -42,8 +42,8 @@ class TrivialDatabase {
         @Query("SELECT COUNT(*) FROM questions")
         suspend fun getCount(): Int
 
-        @Query("SELECT * FROM questions ORDER BY RANDOM() LIMIT 10")
-        suspend fun getRandomQuestions(): List<QuestionEntity>
+        @Query("SELECT * FROM questions LIMIT 10 OFFSET :offset")
+        suspend fun getRandomQuestions(offset : Int): List<QuestionEntity>
 
         @Insert(onConflict = OnConflictStrategy.REPLACE)
         suspend fun insertAll(questions: List<QuestionEntity>)
