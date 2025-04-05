@@ -1,8 +1,9 @@
-
 plugins {
     alias(libs.plugins.android.application)
-    alias(libs.plugins.kotlin.android)
+    id("org.jetbrains.kotlin.android")
     alias(libs.plugins.kotlin.compose)
+    id("com.google.devtools.ksp")
+    id("com.google.dagger.hilt.android")
 }
 
 android {
@@ -50,6 +51,9 @@ android {
         compose = true
     }
 
+    hilt {
+        enableAggregatingTask = true
+    }
 }
 
 dependencies {
@@ -72,7 +76,19 @@ dependencies {
 
     implementation("io.coil-kt:coil-compose:2.7.0")
 
-    implementation ("androidx.navigation:navigation-compose:2.8.9")
-    androidTestImplementation ("androidx.navigation:navigation-testing:2.8.9")
-    implementation ("org.jetbrains.kotlin:kotlin-test:2.1.10")
+    implementation("androidx.navigation:navigation-compose:2.8.9")
+    androidTestImplementation("androidx.navigation:navigation-testing:2.8.9")
+    implementation("org.jetbrains.kotlin:kotlin-test:2.1.10")
+
+    val hiltVersion = "2.56.1"
+
+    implementation("com.google.dagger:hilt-android:$hiltVersion")
+    ksp("com.google.dagger:hilt-compiler:$hiltVersion")
+    implementation("androidx.hilt:hilt-navigation-compose:1.2.0")
+
+
+    // Optional: For testing
+    androidTestImplementation("com.google.dagger:hilt-android-testing:$hiltVersion")
+    kspAndroidTest("com.google.dagger:hilt-compiler:$hiltVersion")
 }
+
