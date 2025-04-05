@@ -2,6 +2,7 @@ package com.example.trivial
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.NavHostController
@@ -15,6 +16,8 @@ fun TrivialNavHost(
     navController: NavHostController,
     modifier: Modifier = Modifier
 ) {
+    val viewModel: QuizViewModel = hiltViewModel()
+
     NavHost(
         navController = navController,
         startDestination = Welcome.route,
@@ -28,7 +31,7 @@ fun TrivialNavHost(
 
         composable(route = Questions.route) {
             QuestionsScreen(
-//                viewModel = QuizViewModel,
+                viewModel = viewModel,
                 onNextQuestionSelected = {
 
                 },

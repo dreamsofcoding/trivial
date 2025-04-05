@@ -1,0 +1,2202 @@
+[
+  {
+    "text": "What is the currency of USA?",
+    "answers": [
+      "Rupee",
+      "Dollar",
+      "Real",
+      "Pound",
+      "Yen"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the currency of India?",
+    "answers": [
+      "Dollar",
+      "Rupee",
+      "Real",
+      "Pound",
+      "Yen"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the capital of Germany?",
+    "answers": [
+      "Madrid",
+      "Berlin",
+      "Rome",
+      "Paris",
+      "Lisbon"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the capital of Spain?",
+    "answers": [
+      "Berlin",
+      "Paris",
+      "Rome",
+      "Madrid",
+      "Lisbon"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the Android version code name for 13?",
+    "answers": [
+      "Upside Down Cake",
+      "Q",
+      "S",
+      "R",
+      "Tiramisu"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the capital of Spain?",
+    "answers": [
+      "Lisbon",
+      "Paris",
+      "Rome",
+      "Berlin",
+      "Madrid"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the Android version code name for 11?",
+    "answers": [
+      "Tiramisu",
+      "Upside Down Cake",
+      "R",
+      "Q",
+      "S"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the language spoken in Egypt?",
+    "answers": [
+      "Arabic",
+      "Russian",
+      "Mandarin",
+      "Spanish",
+      "Norwegian"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the capital of Germany?",
+    "answers": [
+      "Madrid",
+      "Rome",
+      "Paris",
+      "Lisbon",
+      "Berlin"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the Android version code name for 12?",
+    "answers": [
+      "Q",
+      "Upside Down Cake",
+      "S",
+      "Tiramisu",
+      "R"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the inventor of computer?",
+    "answers": [
+      "John Logie Baird",
+      "Wright Brothers",
+      "Alexander Graham Bell",
+      "Charles Babbage",
+      "Thomas Edison"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the year when man landed on the moon?",
+    "answers": [
+      "1989",
+      "1945",
+      "1969",
+      "2007",
+      "1998"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the inventor of television?",
+    "answers": [
+      "Thomas Edison",
+      "Wright Brothers",
+      "Alexander Graham Bell",
+      "John Logie Baird",
+      "Charles Babbage"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the currency of Japan?",
+    "answers": [
+      "Dollar",
+      "Rupee",
+      "Pound",
+      "Yen",
+      "Real"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the language spoken in Egypt?",
+    "answers": [
+      "Russian",
+      "Mandarin",
+      "Arabic",
+      "Norwegian",
+      "Spanish"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Kotlin is developed by Microsoft?",
+    "answers": [
+      "Google",
+      "Apple",
+      "Meta",
+      "Microsoft",
+      "JetBrains"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the chemical symbol for Gold?",
+    "answers": [
+      "Fe",
+      "H",
+      "O",
+      "C",
+      "Au"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the inventor of airplane?",
+    "answers": [
+      "Thomas Edison",
+      "Charles Babbage",
+      "Wright Brothers",
+      "John Logie Baird",
+      "Alexander Graham Bell"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Kotlin is developed by JetBrains?",
+    "answers": [
+      "Apple",
+      "Microsoft",
+      "JetBrains",
+      "Google",
+      "Meta"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the capital of Portugal?",
+    "answers": [
+      "Rome",
+      "Berlin",
+      "Madrid",
+      "Lisbon",
+      "Paris"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the Kotlin is developed by Microsoft?",
+    "answers": [
+      "Meta",
+      "Apple",
+      "Microsoft",
+      "Google",
+      "JetBrains"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the currency of UK?",
+    "answers": [
+      "Dollar",
+      "Real",
+      "Rupee",
+      "Pound",
+      "Yen"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the language spoken in Norway?",
+    "answers": [
+      "Norwegian",
+      "Spanish",
+      "Arabic",
+      "Mandarin",
+      "Russian"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the Android version code name for 13?",
+    "answers": [
+      "Upside Down Cake",
+      "S",
+      "R",
+      "Tiramisu",
+      "Q"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the currency of USA?",
+    "answers": [
+      "Yen",
+      "Pound",
+      "Dollar",
+      "Rupee",
+      "Real"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the year when WWII ended?",
+    "answers": [
+      "1989",
+      "1998",
+      "1945",
+      "2007",
+      "1969"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Android version code name for 14?",
+    "answers": [
+      "R",
+      "Upside Down Cake",
+      "S",
+      "Q",
+      "Tiramisu"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the Kotlin is developed by JetBrains?",
+    "answers": [
+      "Meta",
+      "JetBrains",
+      "Apple",
+      "Microsoft",
+      "Google"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the inventor of telephone?",
+    "answers": [
+      "Charles Babbage",
+      "Thomas Edison",
+      "John Logie Baird",
+      "Alexander Graham Bell",
+      "Wright Brothers"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the currency of Japan?",
+    "answers": [
+      "Dollar",
+      "Yen",
+      "Pound",
+      "Rupee",
+      "Real"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the year when WWII ended?",
+    "answers": [
+      "1998",
+      "1945",
+      "1989",
+      "2007",
+      "1969"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the capital of France?",
+    "answers": [
+      "Berlin",
+      "Lisbon",
+      "Paris",
+      "Rome",
+      "Madrid"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the capital of Germany?",
+    "answers": [
+      "Paris",
+      "Lisbon",
+      "Berlin",
+      "Madrid",
+      "Rome"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the language spoken in Egypt?",
+    "answers": [
+      "Norwegian",
+      "Mandarin",
+      "Spanish",
+      "Russian",
+      "Arabic"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the year when Google was founded?",
+    "answers": [
+      "1989",
+      "1969",
+      "2007",
+      "1945",
+      "1998"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the currency of UK?",
+    "answers": [
+      "Yen",
+      "Real",
+      "Pound",
+      "Rupee",
+      "Dollar"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the inventor of computer?",
+    "answers": [
+      "Alexander Graham Bell",
+      "John Logie Baird",
+      "Wright Brothers",
+      "Charles Babbage",
+      "Thomas Edison"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the capital of Italy?",
+    "answers": [
+      "Madrid",
+      "Rome",
+      "Berlin",
+      "Paris",
+      "Lisbon"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the capital of Spain?",
+    "answers": [
+      "Madrid",
+      "Rome",
+      "Berlin",
+      "Lisbon",
+      "Paris"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the language spoken in Mexico?",
+    "answers": [
+      "Russian",
+      "Spanish",
+      "Mandarin",
+      "Arabic",
+      "Norwegian"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the capital of France?",
+    "answers": [
+      "Madrid",
+      "Rome",
+      "Lisbon",
+      "Berlin",
+      "Paris"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the currency of Brazil?",
+    "answers": [
+      "Pound",
+      "Real",
+      "Dollar",
+      "Yen",
+      "Rupee"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the language spoken in Egypt?",
+    "answers": [
+      "Norwegian",
+      "Arabic",
+      "Spanish",
+      "Mandarin",
+      "Russian"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the chemical symbol for Gold?",
+    "answers": [
+      "C",
+      "H",
+      "Fe",
+      "Au",
+      "O"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the currency of India?",
+    "answers": [
+      "Rupee",
+      "Dollar",
+      "Pound",
+      "Real",
+      "Yen"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the capital of Spain?",
+    "answers": [
+      "Berlin",
+      "Madrid",
+      "Lisbon",
+      "Rome",
+      "Paris"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the Kotlin is developed by Google?",
+    "answers": [
+      "Microsoft",
+      "Meta",
+      "Apple",
+      "JetBrains",
+      "Google"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the language spoken in China?",
+    "answers": [
+      "Spanish",
+      "Mandarin",
+      "Arabic",
+      "Russian",
+      "Norwegian"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the currency of India?",
+    "answers": [
+      "Dollar",
+      "Real",
+      "Pound",
+      "Rupee",
+      "Yen"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the Android version code name for 12?",
+    "answers": [
+      "Q",
+      "S",
+      "Tiramisu",
+      "R",
+      "Upside Down Cake"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the year when the Berlin Wall fell?",
+    "answers": [
+      "2007",
+      "1998",
+      "1969",
+      "1989",
+      "1945"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the Kotlin is developed by Apple?",
+    "answers": [
+      "Meta",
+      "Google",
+      "JetBrains",
+      "Apple",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Android version code name for 13?",
+    "answers": [
+      "Tiramisu",
+      "Q",
+      "R",
+      "S",
+      "Upside Down Cake"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the Kotlin is developed by Apple?",
+    "answers": [
+      "Meta",
+      "Google",
+      "Microsoft",
+      "Apple",
+      "JetBrains"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the year when the iPhone was released?",
+    "answers": [
+      "2007",
+      "1945",
+      "1969",
+      "1998",
+      "1989"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the inventor of telephone?",
+    "answers": [
+      "Wright Brothers",
+      "Thomas Edison",
+      "John Logie Baird",
+      "Charles Babbage",
+      "Alexander Graham Bell"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the language spoken in Russia?",
+    "answers": [
+      "Mandarin",
+      "Russian",
+      "Arabic",
+      "Norwegian",
+      "Spanish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the Kotlin is developed by Google?",
+    "answers": [
+      "Meta",
+      "Google",
+      "Apple",
+      "JetBrains",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the year when WWII ended?",
+    "answers": [
+      "1969",
+      "1945",
+      "2007",
+      "1989",
+      "1998"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the chemical symbol for Iron?",
+    "answers": [
+      "H",
+      "Fe",
+      "Au",
+      "O",
+      "C"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the year when Google was founded?",
+    "answers": [
+      "1945",
+      "1989",
+      "2007",
+      "1969",
+      "1998"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the inventor of television?",
+    "answers": [
+      "Charles Babbage",
+      "Alexander Graham Bell",
+      "John Logie Baird",
+      "Thomas Edison",
+      "Wright Brothers"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the language spoken in Egypt?",
+    "answers": [
+      "Mandarin",
+      "Spanish",
+      "Norwegian",
+      "Arabic",
+      "Russian"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the language spoken in Egypt?",
+    "answers": [
+      "Norwegian",
+      "Mandarin",
+      "Russian",
+      "Arabic",
+      "Spanish"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the chemical symbol for Hydrogen?",
+    "answers": [
+      "C",
+      "O",
+      "H",
+      "Au",
+      "Fe"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Kotlin is developed by Google?",
+    "answers": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "Meta",
+      "JetBrains"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the language spoken in Mexico?",
+    "answers": [
+      "Arabic",
+      "Russian",
+      "Mandarin",
+      "Spanish",
+      "Norwegian"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the language spoken in Russia?",
+    "answers": [
+      "Spanish",
+      "Mandarin",
+      "Arabic",
+      "Norwegian",
+      "Russian"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the Android version code name for 11?",
+    "answers": [
+      "Q",
+      "S",
+      "R",
+      "Upside Down Cake",
+      "Tiramisu"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the capital of France?",
+    "answers": [
+      "Rome",
+      "Berlin",
+      "Paris",
+      "Lisbon",
+      "Madrid"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the capital of Italy?",
+    "answers": [
+      "Berlin",
+      "Paris",
+      "Lisbon",
+      "Madrid",
+      "Rome"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the inventor of computer?",
+    "answers": [
+      "John Logie Baird",
+      "Wright Brothers",
+      "Alexander Graham Bell",
+      "Charles Babbage",
+      "Thomas Edison"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the year when Google was founded?",
+    "answers": [
+      "1945",
+      "1998",
+      "1989",
+      "1969",
+      "2007"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the year when man landed on the moon?",
+    "answers": [
+      "1998",
+      "1989",
+      "2007",
+      "1945",
+      "1969"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the Kotlin is developed by JetBrains?",
+    "answers": [
+      "Google",
+      "Microsoft",
+      "Meta",
+      "Apple",
+      "JetBrains"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the chemical symbol for Iron?",
+    "answers": [
+      "Fe",
+      "C",
+      "H",
+      "Au",
+      "O"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the language spoken in Russia?",
+    "answers": [
+      "Norwegian",
+      "Mandarin",
+      "Spanish",
+      "Russian",
+      "Arabic"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the language spoken in China?",
+    "answers": [
+      "Mandarin",
+      "Norwegian",
+      "Russian",
+      "Spanish",
+      "Arabic"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the year when man landed on the moon?",
+    "answers": [
+      "1969",
+      "1945",
+      "1989",
+      "1998",
+      "2007"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the language spoken in Russia?",
+    "answers": [
+      "Norwegian",
+      "Mandarin",
+      "Spanish",
+      "Arabic",
+      "Russian"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the Kotlin is developed by Apple?",
+    "answers": [
+      "Apple",
+      "Microsoft",
+      "JetBrains",
+      "Meta",
+      "Google"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the capital of Portugal?",
+    "answers": [
+      "Rome",
+      "Berlin",
+      "Paris",
+      "Lisbon",
+      "Madrid"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the language spoken in Russia?",
+    "answers": [
+      "Russian",
+      "Arabic",
+      "Norwegian",
+      "Spanish",
+      "Mandarin"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the chemical symbol for Iron?",
+    "answers": [
+      "C",
+      "O",
+      "H",
+      "Fe",
+      "Au"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the inventor of television?",
+    "answers": [
+      "Alexander Graham Bell",
+      "John Logie Baird",
+      "Charles Babbage",
+      "Wright Brothers",
+      "Thomas Edison"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the chemical symbol for Oxygen?",
+    "answers": [
+      "C",
+      "Au",
+      "O",
+      "Fe",
+      "H"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Kotlin is developed by Apple?",
+    "answers": [
+      "Apple",
+      "Microsoft",
+      "JetBrains",
+      "Google",
+      "Meta"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the inventor of television?",
+    "answers": [
+      "John Logie Baird",
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Wright Brothers",
+      "Charles Babbage"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the chemical symbol for Hydrogen?",
+    "answers": [
+      "O",
+      "C",
+      "H",
+      "Fe",
+      "Au"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Kotlin is developed by Apple?",
+    "answers": [
+      "Meta",
+      "Microsoft",
+      "JetBrains",
+      "Apple",
+      "Google"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Kotlin is developed by Apple?",
+    "answers": [
+      "JetBrains",
+      "Microsoft",
+      "Meta",
+      "Google",
+      "Apple"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the year when man landed on the moon?",
+    "answers": [
+      "1969",
+      "2007",
+      "1945",
+      "1998",
+      "1989"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the year when the iPhone was released?",
+    "answers": [
+      "1945",
+      "1969",
+      "2007",
+      "1989",
+      "1998"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the capital of Italy?",
+    "answers": [
+      "Berlin",
+      "Lisbon",
+      "Paris",
+      "Madrid",
+      "Rome"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the Android version code name for 10?",
+    "answers": [
+      "S",
+      "Upside Down Cake",
+      "R",
+      "Tiramisu",
+      "Q"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the Android version code name for 13?",
+    "answers": [
+      "Upside Down Cake",
+      "R",
+      "Tiramisu",
+      "Q",
+      "S"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the capital of Italy?",
+    "answers": [
+      "Paris",
+      "Lisbon",
+      "Berlin",
+      "Rome",
+      "Madrid"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the Android version code name for 12?",
+    "answers": [
+      "S",
+      "Tiramisu",
+      "Q",
+      "Upside Down Cake",
+      "R"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the capital of Germany?",
+    "answers": [
+      "Lisbon",
+      "Berlin",
+      "Paris",
+      "Madrid",
+      "Rome"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the chemical symbol for Carbon?",
+    "answers": [
+      "Fe",
+      "Au",
+      "C",
+      "O",
+      "H"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the language spoken in China?",
+    "answers": [
+      "Spanish",
+      "Norwegian",
+      "Arabic",
+      "Mandarin",
+      "Russian"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the language spoken in China?",
+    "answers": [
+      "Mandarin",
+      "Arabic",
+      "Norwegian",
+      "Russian",
+      "Spanish"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the language spoken in Norway?",
+    "answers": [
+      "Mandarin",
+      "Norwegian",
+      "Spanish",
+      "Arabic",
+      "Russian"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the chemical symbol for Gold?",
+    "answers": [
+      "O",
+      "Fe",
+      "H",
+      "Au",
+      "C"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the year when WWII ended?",
+    "answers": [
+      "2007",
+      "1998",
+      "1945",
+      "1989",
+      "1969"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the year when the Berlin Wall fell?",
+    "answers": [
+      "1989",
+      "1969",
+      "1998",
+      "1945",
+      "2007"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the Kotlin is developed by Meta?",
+    "answers": [
+      "Microsoft",
+      "Google",
+      "Meta",
+      "JetBrains",
+      "Apple"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the chemical symbol for Carbon?",
+    "answers": [
+      "Au",
+      "Fe",
+      "C",
+      "H",
+      "O"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Android version code name for 14?",
+    "answers": [
+      "Upside Down Cake",
+      "S",
+      "Tiramisu",
+      "Q",
+      "R"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the Kotlin is developed by Google?",
+    "answers": [
+      "Microsoft",
+      "JetBrains",
+      "Apple",
+      "Google",
+      "Meta"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the inventor of computer?",
+    "answers": [
+      "Thomas Edison",
+      "Charles Babbage",
+      "Alexander Graham Bell",
+      "John Logie Baird",
+      "Wright Brothers"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the capital of Italy?",
+    "answers": [
+      "Lisbon",
+      "Berlin",
+      "Rome",
+      "Madrid",
+      "Paris"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the inventor of light bulb?",
+    "answers": [
+      "Thomas Edison",
+      "Wright Brothers",
+      "John Logie Baird",
+      "Charles Babbage",
+      "Alexander Graham Bell"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the currency of UK?",
+    "answers": [
+      "Yen",
+      "Dollar",
+      "Pound",
+      "Real",
+      "Rupee"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the inventor of television?",
+    "answers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Wright Brothers",
+      "Charles Babbage",
+      "John Logie Baird"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the year when WWII ended?",
+    "answers": [
+      "2007",
+      "1945",
+      "1998",
+      "1989",
+      "1969"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the chemical symbol for Carbon?",
+    "answers": [
+      "Au",
+      "Fe",
+      "H",
+      "O",
+      "C"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the Android version code name for 13?",
+    "answers": [
+      "S",
+      "Tiramisu",
+      "Q",
+      "R",
+      "Upside Down Cake"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the language spoken in Norway?",
+    "answers": [
+      "Russian",
+      "Mandarin",
+      "Arabic",
+      "Norwegian",
+      "Spanish"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the capital of Portugal?",
+    "answers": [
+      "Rome",
+      "Berlin",
+      "Paris",
+      "Madrid",
+      "Lisbon"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the Android version code name for 14?",
+    "answers": [
+      "S",
+      "Upside Down Cake",
+      "Tiramisu",
+      "R",
+      "Q"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the Android version code name for 14?",
+    "answers": [
+      "S",
+      "R",
+      "Tiramisu",
+      "Upside Down Cake",
+      "Q"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the Android version code name for 13?",
+    "answers": [
+      "Upside Down Cake",
+      "S",
+      "Q",
+      "R",
+      "Tiramisu"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the chemical symbol for Carbon?",
+    "answers": [
+      "Au",
+      "H",
+      "Fe",
+      "O",
+      "C"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the chemical symbol for Oxygen?",
+    "answers": [
+      "C",
+      "Au",
+      "Fe",
+      "O",
+      "H"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the language spoken in Egypt?",
+    "answers": [
+      "Arabic",
+      "Spanish",
+      "Russian",
+      "Norwegian",
+      "Mandarin"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the currency of USA?",
+    "answers": [
+      "Yen",
+      "Real",
+      "Pound",
+      "Rupee",
+      "Dollar"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the capital of Portugal?",
+    "answers": [
+      "Paris",
+      "Madrid",
+      "Rome",
+      "Lisbon",
+      "Berlin"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the Android version code name for 11?",
+    "answers": [
+      "Q",
+      "Upside Down Cake",
+      "Tiramisu",
+      "R",
+      "S"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the currency of USA?",
+    "answers": [
+      "Dollar",
+      "Real",
+      "Rupee",
+      "Pound",
+      "Yen"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the Kotlin is developed by Apple?",
+    "answers": [
+      "Apple",
+      "JetBrains",
+      "Meta",
+      "Microsoft",
+      "Google"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the Android version code name for 12?",
+    "answers": [
+      "Q",
+      "R",
+      "Upside Down Cake",
+      "S",
+      "Tiramisu"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the chemical symbol for Iron?",
+    "answers": [
+      "Au",
+      "O",
+      "H",
+      "C",
+      "Fe"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the year when the Berlin Wall fell?",
+    "answers": [
+      "1998",
+      "1989",
+      "1945",
+      "2007",
+      "1969"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the capital of France?",
+    "answers": [
+      "Berlin",
+      "Madrid",
+      "Rome",
+      "Paris",
+      "Lisbon"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the currency of India?",
+    "answers": [
+      "Dollar",
+      "Yen",
+      "Pound",
+      "Rupee",
+      "Real"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the Android version code name for 11?",
+    "answers": [
+      "Upside Down Cake",
+      "Tiramisu",
+      "S",
+      "R",
+      "Q"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the Kotlin is developed by Apple?",
+    "answers": [
+      "Apple",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "JetBrains"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the Android version code name for 14?",
+    "answers": [
+      "Q",
+      "Tiramisu",
+      "R",
+      "Upside Down Cake",
+      "S"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the Android version code name for 10?",
+    "answers": [
+      "Tiramisu",
+      "Q",
+      "R",
+      "S",
+      "Upside Down Cake"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the currency of USA?",
+    "answers": [
+      "Real",
+      "Pound",
+      "Rupee",
+      "Yen",
+      "Dollar"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the Android version code name for 14?",
+    "answers": [
+      "Q",
+      "S",
+      "R",
+      "Upside Down Cake",
+      "Tiramisu"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the Android version code name for 14?",
+    "answers": [
+      "Upside Down Cake",
+      "S",
+      "Tiramisu",
+      "Q",
+      "R"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the Kotlin is developed by JetBrains?",
+    "answers": [
+      "Apple",
+      "Microsoft",
+      "Google",
+      "Meta",
+      "JetBrains"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the Android version code name for 14?",
+    "answers": [
+      "S",
+      "Tiramisu",
+      "R",
+      "Q",
+      "Upside Down Cake"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the currency of India?",
+    "answers": [
+      "Dollar",
+      "Rupee",
+      "Pound",
+      "Real",
+      "Yen"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the chemical symbol for Carbon?",
+    "answers": [
+      "Fe",
+      "C",
+      "Au",
+      "O",
+      "H"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the language spoken in Mexico?",
+    "answers": [
+      "Russian",
+      "Mandarin",
+      "Norwegian",
+      "Spanish",
+      "Arabic"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the capital of Italy?",
+    "answers": [
+      "Lisbon",
+      "Paris",
+      "Berlin",
+      "Rome",
+      "Madrid"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the language spoken in Egypt?",
+    "answers": [
+      "Mandarin",
+      "Spanish",
+      "Russian",
+      "Norwegian",
+      "Arabic"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the chemical symbol for Hydrogen?",
+    "answers": [
+      "C",
+      "O",
+      "Au",
+      "H",
+      "Fe"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the chemical symbol for Hydrogen?",
+    "answers": [
+      "Fe",
+      "O",
+      "H",
+      "Au",
+      "C"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the language spoken in China?",
+    "answers": [
+      "Russian",
+      "Mandarin",
+      "Norwegian",
+      "Spanish",
+      "Arabic"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the Kotlin is developed by JetBrains?",
+    "answers": [
+      "Microsoft",
+      "JetBrains",
+      "Google",
+      "Apple",
+      "Meta"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the chemical symbol for Gold?",
+    "answers": [
+      "H",
+      "C",
+      "Au",
+      "Fe",
+      "O"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the inventor of television?",
+    "answers": [
+      "Alexander Graham Bell",
+      "Wright Brothers",
+      "John Logie Baird",
+      "Thomas Edison",
+      "Charles Babbage"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Android version code name for 10?",
+    "answers": [
+      "S",
+      "R",
+      "Upside Down Cake",
+      "Tiramisu",
+      "Q"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the Android version code name for 14?",
+    "answers": [
+      "S",
+      "R",
+      "Upside Down Cake",
+      "Q",
+      "Tiramisu"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Android version code name for 11?",
+    "answers": [
+      "R",
+      "Q",
+      "S",
+      "Tiramisu",
+      "Upside Down Cake"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the Kotlin is developed by Google?",
+    "answers": [
+      "Microsoft",
+      "Google",
+      "JetBrains",
+      "Apple",
+      "Meta"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the chemical symbol for Iron?",
+    "answers": [
+      "Au",
+      "C",
+      "O",
+      "Fe",
+      "H"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the Android version code name for 14?",
+    "answers": [
+      "Tiramisu",
+      "S",
+      "R",
+      "Q",
+      "Upside Down Cake"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the inventor of light bulb?",
+    "answers": [
+      "John Logie Baird",
+      "Charles Babbage",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Wright Brothers"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Kotlin is developed by Apple?",
+    "answers": [
+      "JetBrains",
+      "Apple",
+      "Microsoft",
+      "Meta",
+      "Google"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the chemical symbol for Hydrogen?",
+    "answers": [
+      "H",
+      "O",
+      "Fe",
+      "Au",
+      "C"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the year when the Berlin Wall fell?",
+    "answers": [
+      "1945",
+      "1998",
+      "1989",
+      "1969",
+      "2007"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the language spoken in Norway?",
+    "answers": [
+      "Spanish",
+      "Mandarin",
+      "Norwegian",
+      "Russian",
+      "Arabic"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the year when Google was founded?",
+    "answers": [
+      "1998",
+      "2007",
+      "1989",
+      "1945",
+      "1969"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the language spoken in Egypt?",
+    "answers": [
+      "Spanish",
+      "Arabic",
+      "Mandarin",
+      "Russian",
+      "Norwegian"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the year when man landed on the moon?",
+    "answers": [
+      "1998",
+      "1989",
+      "1945",
+      "1969",
+      "2007"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the currency of Brazil?",
+    "answers": [
+      "Rupee",
+      "Pound",
+      "Dollar",
+      "Real",
+      "Yen"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the Android version code name for 11?",
+    "answers": [
+      "Q",
+      "R",
+      "S",
+      "Tiramisu",
+      "Upside Down Cake"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the year when the Berlin Wall fell?",
+    "answers": [
+      "2007",
+      "1998",
+      "1969",
+      "1945",
+      "1989"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the language spoken in Egypt?",
+    "answers": [
+      "Arabic",
+      "Norwegian",
+      "Russian",
+      "Spanish",
+      "Mandarin"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the language spoken in Russia?",
+    "answers": [
+      "Arabic",
+      "Russian",
+      "Mandarin",
+      "Norwegian",
+      "Spanish"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the chemical symbol for Oxygen?",
+    "answers": [
+      "Fe",
+      "Au",
+      "C",
+      "O",
+      "H"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the chemical symbol for Gold?",
+    "answers": [
+      "Au",
+      "H",
+      "Fe",
+      "O",
+      "C"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the year when Google was founded?",
+    "answers": [
+      "2007",
+      "1989",
+      "1969",
+      "1945",
+      "1998"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the Android version code name for 14?",
+    "answers": [
+      "Tiramisu",
+      "Q",
+      "R",
+      "S",
+      "Upside Down Cake"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the year when the iPhone was released?",
+    "answers": [
+      "1989",
+      "1998",
+      "1945",
+      "2007",
+      "1969"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the currency of Japan?",
+    "answers": [
+      "Yen",
+      "Pound",
+      "Dollar",
+      "Rupee",
+      "Real"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the chemical symbol for Iron?",
+    "answers": [
+      "O",
+      "Au",
+      "Fe",
+      "H",
+      "C"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Kotlin is developed by Meta?",
+    "answers": [
+      "Meta",
+      "Google",
+      "Microsoft",
+      "JetBrains",
+      "Apple"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the inventor of computer?",
+    "answers": [
+      "John Logie Baird",
+      "Charles Babbage",
+      "Wright Brothers",
+      "Thomas Edison",
+      "Alexander Graham Bell"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the chemical symbol for Carbon?",
+    "answers": [
+      "H",
+      "Fe",
+      "Au",
+      "C",
+      "O"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the capital of Portugal?",
+    "answers": [
+      "Berlin",
+      "Madrid",
+      "Lisbon",
+      "Rome",
+      "Paris"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Android version code name for 12?",
+    "answers": [
+      "S",
+      "Upside Down Cake",
+      "R",
+      "Tiramisu",
+      "Q"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the capital of Italy?",
+    "answers": [
+      "Berlin",
+      "Paris",
+      "Lisbon",
+      "Rome",
+      "Madrid"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the language spoken in Mexico?",
+    "answers": [
+      "Norwegian",
+      "Spanish",
+      "Russian",
+      "Arabic",
+      "Mandarin"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the Android version code name for 11?",
+    "answers": [
+      "S",
+      "Tiramisu",
+      "R",
+      "Q",
+      "Upside Down Cake"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "What is the Kotlin is developed by Google?",
+    "answers": [
+      "Google",
+      "JetBrains",
+      "Apple",
+      "Microsoft",
+      "Meta"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the capital of France?",
+    "answers": [
+      "Lisbon",
+      "Paris",
+      "Rome",
+      "Berlin",
+      "Madrid"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the currency of Brazil?",
+    "answers": [
+      "Yen",
+      "Rupee",
+      "Dollar",
+      "Real",
+      "Pound"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the currency of India?",
+    "answers": [
+      "Yen",
+      "Rupee",
+      "Pound",
+      "Dollar",
+      "Real"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the currency of UK?",
+    "answers": [
+      "Rupee",
+      "Dollar",
+      "Yen",
+      "Pound",
+      "Real"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "What is the language spoken in Norway?",
+    "answers": [
+      "Norwegian",
+      "Mandarin",
+      "Spanish",
+      "Russian",
+      "Arabic"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the inventor of television?",
+    "answers": [
+      "Wright Brothers",
+      "Alexander Graham Bell",
+      "Charles Babbage",
+      "Thomas Edison",
+      "John Logie Baird"
+    ],
+    "correctAnswerIndex": 4
+  },
+  {
+    "text": "What is the language spoken in Norway?",
+    "answers": [
+      "Spanish",
+      "Norwegian",
+      "Russian",
+      "Arabic",
+      "Mandarin"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "What is the capital of Italy?",
+    "answers": [
+      "Rome",
+      "Lisbon",
+      "Madrid",
+      "Berlin",
+      "Paris"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "What is the language spoken in Norway?",
+    "answers": [
+      "Spanish",
+      "Norwegian",
+      "Arabic",
+      "Russian",
+      "Mandarin"
+    ],
+    "correctAnswerIndex": 1
+  }
+]
