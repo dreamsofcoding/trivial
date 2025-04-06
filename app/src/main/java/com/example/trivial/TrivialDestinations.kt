@@ -15,3 +15,11 @@ object Questions : TrivialDestinations {
 object Scores : TrivialDestinations {
     override val route = "scores"
 }
+
+object Settings : TrivialDestinations {
+    override val route = "settings"
+}
+
+object About : TrivialDestinations {
+    override val route = "about"
+}

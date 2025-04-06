@@ -32,7 +32,7 @@ class QuizViewModel @Inject constructor(
 
     var score by mutableIntStateOf(0)
 
-    private var correctStreak = 0
+    var correctStreak = 0
 
     val currentQuestion: QuestionEntity
         get() = questions.getOrNull(currentIndex) ?: QuestionEntity(0, "", listOf(), 0)

@@ -7,8 +7,10 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.NavHostController
 import com.example.trivial.data.QuizViewModel
+import com.example.trivial.ui.about.AboutScreen
 import com.example.trivial.ui.questions.QuestionsScreen
 import com.example.trivial.ui.scores.ScoresScreen
+import com.example.trivial.ui.settings.SettingsScreen
 import com.example.trivial.ui.welcome.WelcomeScreen
 
 
@@ -45,6 +47,14 @@ fun TrivialNavHost(
             ScoresScreen(
                 viewModel = viewModel,
             )
+        }
+
+        composable(route = Settings.route) {
+            SettingsScreen()
+        }
+
+        composable(route = About.route) {
+            AboutScreen()
         }
     }
 }
