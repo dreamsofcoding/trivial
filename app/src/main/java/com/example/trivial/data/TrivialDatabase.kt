@@ -14,10 +14,11 @@ import kotlinx.serialization.Serializable
 
 class TrivialDatabase {
 
-    @Database(entities = [QuestionEntity::class], version = 1)
+    @Database(entities = [QuestionEntity::class, ScoreEntity::class], version = 1)
     @TypeConverters(Converters::class)
     abstract class QuizDatabase : RoomDatabase() {
         abstract fun questionDao(): QuestionDao
+        abstract fun scoreDao(): ScoreDao
     }
 
 
@@ -49,5 +50,22 @@ class TrivialDatabase {
         suspend fun insertAll(questions: List<QuestionEntity>)
     }
 
+
+
+    @Entity(tableName = "scores")
+    data class ScoreEntity(
+        @PrimaryKey(autoGenerate = true) val id: Int = 0,
+        val score: Int,
+        val timestamp: Long = System.currentTimeMillis()
+    )
+
+    @Dao
+    interface ScoreDao {
+        @Insert
+        suspend fun insertScore(score: ScoreEntity)
+
+        @Query("SELECT * FROM scores ORDER BY score DESC LIMIT 10")
+        suspend fun getTopScores(): List<ScoreEntity>
+    }
 
 }

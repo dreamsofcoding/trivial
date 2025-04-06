@@ -4,6 +4,7 @@ import android.content.Context
 import androidx.room.Room
 import com.example.trivial.data.TrivialDatabase.QuestionDao
 import com.example.trivial.data.TrivialDatabase.QuizDatabase
+import com.example.trivial.data.TrivialDatabase.ScoreDao
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -24,4 +25,7 @@ object DatabaseModule {
 
     @Provides
     fun provideQuestionDao(db: QuizDatabase): QuestionDao = db.questionDao()
+
+    @Provides
+    fun provideScoreDao(db: QuizDatabase): ScoreDao = db.scoreDao()
 }

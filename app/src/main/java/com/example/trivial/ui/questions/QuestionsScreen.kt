@@ -22,13 +22,14 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.hilt.navigation.compose.hiltViewModel
 import com.example.trivial.R
 import com.example.trivial.data.QuizViewModel
 import com.example.trivial.data.TrivialDatabase
 
 @Composable
 fun QuestionsScreen(
-    viewModel: QuizViewModel,
+    viewModel: QuizViewModel = hiltViewModel(),
     onNavigateToScores: () -> Unit
 ) {
     val question = viewModel.currentQuestion
@@ -41,7 +42,9 @@ fun QuestionsScreen(
         onAnswerSelected = { selectedIndex ->
             viewModel.submitAnswer(selectedIndex)
         },
-        onNavigateToScores = { onNavigateToScores.invoke() },
+        onNavigateToScores = {
+            viewModel.saveScore()
+            onNavigateToScores.invoke() },
         currentIndex = index,
         totalQuestions = total,
         currentScore = score
@@ -55,7 +58,7 @@ fun QuestionView(
     onNavigateToScores: () -> Unit,
     currentIndex: Int,
     totalQuestions: Int,
-    currentScore : Int
+    currentScore: Int
 ) {
 
     var selectedIndex by remember { mutableIntStateOf(-1) }
@@ -122,11 +125,13 @@ fun QuestionView(
 
         Button(
             onClick = {
-                if(currentIndex == totalQuestions)  onNavigateToScores.invoke() else {
+                if (currentIndex == totalQuestions) {
+                    onNavigateToScores.invoke()
+                } else {
                     onAnswerSelected(selectedIndex)
                     selectedIndex = -1
                 }
-                      },
+            },
             enabled = selectedIndex != -1,
             modifier = Modifier.align(Alignment.End)
         ) {

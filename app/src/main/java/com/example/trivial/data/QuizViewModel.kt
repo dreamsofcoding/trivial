@@ -8,14 +8,17 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.trivial.data.TrivialDatabase.QuestionDao
 import com.example.trivial.data.TrivialDatabase.QuestionEntity
+import com.example.trivial.data.TrivialDatabase.ScoreEntity
 import dagger.hilt.android.lifecycle.HiltViewModel
+import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 import kotlin.random.Random
 
 @HiltViewModel
 class QuizViewModel @Inject constructor(
-    private val questionDao: QuestionDao
+    private val quizRepo: QuizRepository,
 ) : ViewModel() {
 
     var questions by mutableStateOf(listOf<QuestionEntity>())
@@ -28,7 +31,6 @@ class QuizViewModel @Inject constructor(
         private set
 
     var score by mutableIntStateOf(0)
-        private set
 
     private var correctStreak = 0
 
@@ -37,10 +39,8 @@ class QuizViewModel @Inject constructor(
 
     init {
         viewModelScope.launch {
-            val random = Random.nextInt(0, (questionDao.getCount() - 10).coerceAtLeast(0))
-            questions = questionDao.getRandomQuestions(
-                random
-            )
+            val random = Random.nextInt(0, (quizRepo.getQuestionCount() - 10).coerceAtLeast(0))
+            questions = quizRepo.getRandomQuestions(random)
             totalQuestions = questions.size
         }
     }
@@ -62,6 +62,21 @@ class QuizViewModel @Inject constructor(
         currentIndex++
     }
 
-    fun isQuizComplete(): Boolean = currentIndex >= questions.size
+    fun saveScore() {
+        viewModelScope.launch {
+            quizRepo.saveScore(score)
+        }
+    }
+
+
+
+    private val _topScores = mutableStateOf(listOf<ScoreEntity>())
+    val topScores = _topScores
+
+    fun updateScoresList() {
+        viewModelScope.launch {
+            _topScores.value = quizRepo.getTopScores()
+        }
+    }
 }
 
