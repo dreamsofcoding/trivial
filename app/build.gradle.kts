@@ -100,5 +100,7 @@ dependencies {
 
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.2")
 
+    implementation("com.jakewharton.timber:timber:5.0.1")
+
 }
 
